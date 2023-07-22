@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <div class="main">
+      <img width="15%" alt="frog-stolen" src="https://static.vecteezy.com/system/resources/previews/022/998/891/original/cute-frog-free-png.png">
       <svg id="rotatingText" viewBox="0 0 200 200" width="60%" height="50vh">
         <defs>
           <path  id="circle" d="M 100, 100
